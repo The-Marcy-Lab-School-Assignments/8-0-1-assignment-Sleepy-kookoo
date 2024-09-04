@@ -101,6 +101,8 @@ When you're done, push your code to github and [follow these steps to deploy usi
 
 ![](./images/deployed-github.png)
 
+Deployment Link: https://eight-0-1-assignment-america.onrender.com 
+
 ## Bonus Challenge: 
 
 Find your first React assignment (the Language Greeter App) and copy it into this assignment. Run `npm run build` to generate the `dist` folder and update your server to serve your app instead of the default counter app.
